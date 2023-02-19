@@ -14,6 +14,8 @@
     <img alt="Followers" title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/siddique-azhann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/siddique-azhann/Simple-View-Counter">
     <img alt="views" title="Visitors" src="https://komarev.com/ghpvc/?username=siddiqe-azhann&style=for-the-badge&color=grey"/></a>
+    <a href="https://www.hackerrank.com/knownasashfaq">
+    <img alt="views" title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 ## Languages, Technologies And Tools
@@ -23,9 +25,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%0078d7.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ## GitHub Statistics
 <div align="left">
 <a href="https://github.com/ashfaaqali/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ashfaaqali&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
