@@ -8,8 +8,7 @@
 <a href="https://leetcode.com/ashfaqali/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 </div>
 
-## Languages, Technologies And Tools
-##
+### Languages, Technologies And Tools
 ![Java](https://img.shields.io/badge/java-0078d7.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
