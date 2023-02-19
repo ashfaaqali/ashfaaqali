@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=000000&width=435&lines=Hello+Visitor();I+am+Mohd+Ashfaq.;I+am+an+Android+Developer,;Content+Creator,;and+a+Learner,+always+:-)" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=000000&width=435&lines=Hello+Visitor();I+am+Mohd+Ashfaq.;An+Android+Developer,;Content+Creator,;and+a+Learner,+always+:-)" alt="Typing SVG"/></a>
 </div>
 <div align="center">
 
@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-0078d7.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 ## GitHub Statistics
 <div align="left">
