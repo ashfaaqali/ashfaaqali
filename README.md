@@ -25,8 +25,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaaqali&layout=compact&theme=dark)
 
+## Contributions
+
+![GitHub Contributions Chart](https://github-readme-streak-stats.herokuapp.com/?user=ashfaaqali&theme=dark)
+
 ## Activity Graph
 
-<p align="center">
-<a href="https://github.com/ashfaaqali/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashfaaqali&bg_color=ffffff&color=000000&line=00a36c&point=006602&area=true&hide_border=true"></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashfaaqali&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
