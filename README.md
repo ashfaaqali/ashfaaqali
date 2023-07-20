@@ -1,6 +1,16 @@
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=800080&width=435&lines=Hello+Visitor();I+am+Mohd+Ashfaq.;An+Android+Developer,;Content+Creator,;and+a+Learner,+always+:-)" alt="Typing SVG"/></a>
 
+## About Me
+
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning Java/Kotlin and other Android technologies
+- 👯 I’m looking to collaborate on Android projects
+- 📫 How to reach me: contact.ashfaqali@gmail.com
+- ⚡ Fun fact: As an Android developer, I sometimes find myself debugging code for hours, only to discover that the issue was caused by a missing semicolon in the XML layout file! 🙈
+
+## Connect with Me
+
 </div>
 <div align="left">
 <a href="https://www.hackerrank.com/knownasashfaq" target=_blank><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
