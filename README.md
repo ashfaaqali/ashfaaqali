@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashfaaqali&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ## GitHub Statistics
 <div>
