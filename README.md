@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Java/Kotlin and other Android technologies
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: contact.ashfaqali@gmail.com
-- ⚡ Fun fact: As an Android developer, I sometimes find myself debugging code for hours, only to discover that the issue was caused by a missing semicolon in the XML layout file! 🙈
 
 ## Connect with Me
 
