@@ -4,6 +4,7 @@
 ## About Me
 
 - 🔭 I’m an Android Developer & I have been crafting Android applications for the last 2 years.
+- 💼 Currently working as Android Jetpack Developer Intern at @BetrBeta
 - 🌱 I’m developing Android apps using Java/Kotlin and the latest Android technologies like Jetpack.
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: contact.ashfaqali@gmail.com
