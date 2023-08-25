@@ -3,8 +3,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Java/Kotlin and other Android technologies
+- 🔭 I’m an Android Developer & I have been crafting Android applications for the last 2 years.
+- 🌱 I’m developing Android apps using Java/Kotlin and the latest Android technologies like Jetpack.
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: contact.ashfaqali@gmail.com
 
