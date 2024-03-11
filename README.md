@@ -27,7 +27,7 @@
 ![MVVM](https://img.shields.io/badge/MVVM-ED1C24?style=for-the-badge&logo=android&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Navigation](https://img.shields.io/badge/Navigation-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![OkHttp](https://img.shields.io/badge/OkHttp-0055FF?style=for-the-badge&logo=android&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-0055FF?style=for-the-badge&logo=java&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
