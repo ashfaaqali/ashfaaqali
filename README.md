@@ -5,7 +5,7 @@
 
 - 🔭 I’m an Android Developer & I have been crafting Android applications for the last 2 years.
 - 💼 Currently working as Android Jetpack Developer Intern at @BetrBeta
-- 🌱 I’m developing Android apps using Java/Kotlin and the latest Android technologies like Jetpack.
+- 🌱 I’m developing Android apps using Java/Kotlin and the latest Android technologies like Jetpack Compose.
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: contact.ashfaqali@gmail.com
 
@@ -24,6 +24,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ## GitHub Stats
 
